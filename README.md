@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jana </h1>
-<h3 align="center">Passionate Computer Science Student at Ain-Shams University</h3>
+<h1 align="center">Hi 👋, I'm Jana Abdelwahed </h1>
 <p align="center">
 </p>
 
@@ -15,38 +14,22 @@ Flutter Developer | CS Student
 
 <h3> 👩🏻‍💻 About Me </h3>
   
-- 👩🏻‍🎓 I’m studying Computer Science at Ain Shams University, **Cairo**.  </br>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍🏻 &nbsp; Watching Anime
-- 🏡 Lives in Cairo, Egypt (🇪🇬).
-- Problem Solving Skills.
+-📱 Mobile Application Developer passionate about crafting seamless, cross-platform mobile experiences.
+
+-🎓 Computer Science Student at Ain Shams University (Faculty of Computers and Information Science).
+
+-⚡ Experienced in Flutter, Dart, State Management, REST APIs, and Mobile UI/UX Design.
+
+-💡 Interested in integrating Artificial Intelligence into real-world, intelligent mobile solutions.
+
+-🌍 Based in Cairo, Egypt.
   
 <h3>🛠 Tech Stack </h3>
 
 
-- 💻 &nbsp; C++ |  Java  
-- 🔧 &nbsp; Visual Studio code | Intellij 
+- 💻 &nbsp; C++ | Java | Python | Data Structures | Dart | Flutter | Firebase 
+- 🔧 &nbsp; Visual Studio code | Intellij | Pycharm | Arduino | Android Studio
 
-</div>
-
-  
-<h3 align="left">🔦 Languages and Tools</h3>
-
-<p align="left"> 
-   <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-   </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-   
-    
-
-  
-## ⚙️ &nbsp;GitHub Analytics
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jana-abdelwahed&show_icons=true&theme=vision-friendly-dark" alt="Jana's stats"/> 	<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-abdelwahed&layout=compact&theme=vision-friendly-dark" alt="Jana's most languages"/>
-
-
-</div>
 </div>
 
 
