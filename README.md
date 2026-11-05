@@ -81,9 +81,11 @@ Flutter Developer | AI/ML Engineer | Data & BI Analyst
 
 ### 🎓 Certifications & Training
 
-- **🏅Flutter Summer Training**[cite: 1] — *Information Technology Institute (ITI)*
-- **🏅Applied AI Summer Training**[cite: 1] — *ConnectX / National Telecommunication Institute (NTI)*
-- **🏅Public Relations Event Coordinator**[cite: 1] — *NASA Space Apps Hackathon (Obour 2024)*
+- **🏅 Flutter Summer Training** — *Information Technology Institute (ITI)*
+- **🏅 Flutter Development Diploma** — *Route Academy*
+- **🏅 Applied AI Summer Training** — *ConnectX*
+- **🏅 Public Relations Event Coordinator** — *NASA Space Apps Hackathon (Obour)*
+- **🏅 Public Relations Member** — *RoboTech ASU*
 
 ---
 
